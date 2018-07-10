@@ -1,0 +1,240 @@
+@media screen and (max-width:10000px) {
+    .scr4CardRow {
+        padding-left: 85px
+    }
+}
+
+@media screen and (max-width:1199.98px) {
+    .header1Scr5 {
+        font-size: 47px;
+        line-height: 61.3px;
+        padding-top: 15px
+    }
+    .header2Scr5 {
+        font-size: 32px;
+        padding: 10px 28px
+    }
+    .header3Scr5 {
+        font-size: 19px;
+        padding-top: 50px
+    }
+    .textBlock {
+        margin-bottom: 39px
+    }
+    .pfiTextCol {
+        padding-left: 10px;
+        background: #333
+    }
+    .scr8imgCol {
+        transform: scale(.9);
+        margin-left: -25px
+    }
+    .scr8CardCol {
+        transform: scale(.8)
+    }
+    .puzzle2 img {
+        margin-top: 47px
+    }
+    .puzzle1 img,
+    .puzzle2 img {
+        transform: scale(.7)
+    }
+    .texter {
+        transform: scale(.6);
+        margin: -214px auto 0
+    }
+}
+
+@media screen and (max-width:991.98px) {
+    .header1Scr5,
+    .header2Scr5,
+    .header3Scr5 {
+        text-align: center
+    }
+    .buttoncikLinkLG {
+        display: none
+    }
+    .buttoncikLinkSM {
+        display: inline
+    }
+    .scr4CardRow {
+        padding-left: 57px
+    }
+    .header1Scr5 {
+        margin-bottom: 50px
+    }
+    .container1 {
+        display: none
+    }
+    .respHdLectii {
+        display: block
+    }
+    .speakerCol img {
+        display: block;
+        margin: 0 auto
+    }
+    .speakerCol2 {
+        margin-bottom: 100px
+    }
+    .speakerList {
+        padding-left: 73px
+    }
+    .scr7CardsCol2 {
+        margin-bottom: 120px
+    }
+    .MDschemeRow {
+        display: none
+    }
+    .SMschemeRow {
+        display: block
+    }
+    .formLG {
+        display: none
+    }
+    #formSM {
+        display: block
+    }
+    .practicaHeader {
+        margin: 80px auto
+    }
+    .scr8imgCol {
+        margin-left: 0
+    }
+    .loloPr:after,
+    .loloPr:before {
+        display: none
+    }
+    .textBlok {
+        top: 0;
+        left: 0;
+        background: unset;
+        min-width: initial;
+        min-height: initial;
+        padding: initial
+    }
+    .textBlok h3,
+    .textBlok p {
+        color: #333;
+        text-align: center;
+        padding: initial
+    }
+    .loloPr {
+        background: initial;
+        width: initial;
+        height: initial
+    }
+    .loloPr img {
+        padding-top: initial;
+        display: block;
+        margin: 0 auto
+    }
+    .scr8CardCol .textBlok {
+        top: initial
+    }
+    .scr8CardCol3 .textBlok h3 {
+        padding-left: initial
+    }
+    .scr8imgCol img {
+        margin: 30px auto;
+        display: block
+    }
+    .textBlok p {
+        font-size: 19px
+    }
+    .scr9VideoRow .col-md-6 {
+        margin-bottom: 70px
+    }
+    .puzzleRow {
+        display: none
+    }
+    .smPuzzleRow {
+        display: block;
+        margin: 50px 0
+    }
+    .footerAdrsCol2:before,
+    .smContantCol:before {
+        display: none
+    }
+    .bg1Main,
+    .scr9 {
+        background-attachment: initial
+    }
+}
+
+@media screen and (max-width:767.98px) {
+    .scr4CardRow,
+    .speakerList,
+    .tabsRow {
+        padding-left: 0
+    }
+    .tabsRow div {
+        margin-bottom: 60px
+    }
+    .scr1Text .txt2 {
+        font-size: 50px
+    }
+    .photoTextRow {
+        display: none
+    }
+    .xsPhotoTextRow {
+        display: block
+    }
+    .speakerList {
+        list-style-type: none;
+        text-align: center
+    }
+    .speakerList li:before {
+        display: none
+    }
+    .speakerCol {
+        margin-bottom: 75px
+    }
+    .scr7CardsCol {
+        margin-bottom: 100px
+    }
+}
+
+@media screen and (max-width:575.98px) {
+    .dateTop {
+        top: 25px
+    }
+    .scr1Text .txt2 {
+        font-size: 40px
+    }
+    .scr7Header {
+        text-align: center;
+        border: none;
+        padding-right: 0;
+        margin: 70px 0
+    }
+}
+
+@media screen and (max-width:450px) {
+    .logo,
+    .telEmail {
+        float: none!important;
+        display: block;
+        margin: 0 auto
+    }
+    .telEmail {
+        text-align: center;
+        max-width: 150px
+    }
+    .dateTop {
+        top: 0;
+        margin-top: 15px
+    }
+    .scr1Text .txt1 {
+        font-size: 20px
+    }
+    .scr1Text .txt2 {
+        font-size: 30px
+    }
+    .xsPhotoText {
+        font-size: 23px
+    }
+    .respHdLectii {
+        max-width: 300px;
+        font-size: 28px
+    }
+}

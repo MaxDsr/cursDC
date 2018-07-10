@@ -1,0 +1,409 @@
+
+/* Extra large devices */
+@media screen and (max-width: 10000px)
+{
+
+	.scr4CardRow
+	{
+		padding-left: 85px;
+	}
+	
+}
+
+@media screen and (max-width: 1440px)
+{
+	
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and (max-width: 1199.98px) 
+{
+	.header1Scr5 
+	{
+	    font-size: 47px;
+	    line-height: 61.3px;
+	    padding-top: 15px;
+	}
+
+	.header2Scr5 
+	{
+	    font-size: 32px;
+	    padding: 10px 28px;
+	}
+
+	.header3Scr5
+	{
+	    font-size: 19px;
+	    padding-top: 50px;
+	}
+
+	.textBlock 
+	{
+	    margin-bottom: 39px;
+	}
+
+	.pfiTextCol
+	{
+		padding-left: 10px;
+		background: #333;
+	}
+
+	.scr8imgCol
+	{
+		transform: scale(0.9);
+	    margin-left: -25px;
+	}
+
+	.scr8CardCol 
+	{
+	    transform: scale(0.8);
+	}
+
+	.puzzle2 img
+	{
+		margin-top: 23px;
+	}
+
+	.puzzle1 img, .puzzle2 img
+	{
+		transform: scale(0.7);
+	}
+
+	.texter
+	{
+		transform: scale(0.6);
+	    margin: -214px auto 0 auto;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and (max-width: 991.98px) 
+{
+
+	.buttoncikLinkLG
+	{
+		display: none;
+	}
+
+	.buttoncikLinkSM
+	{
+		display: inline;
+	}
+
+	.scr4CardRow
+	{
+		padding-left: 57px;
+	}
+
+	.header1Scr5
+	{
+		text-align: center;
+		margin-bottom: 50px;
+	}
+
+	.header2Scr5
+	{
+		text-align: center;
+	}
+
+	.header3Scr5
+	{
+		text-align: center;
+	}
+
+	.container1
+	{
+		display: none;
+	}
+
+	.respHdLectii
+	{
+		display: block;
+	}	
+
+
+	.speakerCol img
+	{
+		display: block;
+		margin: 0 auto;
+	}
+
+	.speakerCol2
+	{
+		margin-bottom: 100px;
+	}
+
+	.speakerList
+	{
+		padding-left: 73px;
+	}
+
+	.scr7CardsCol2
+	{
+		margin-bottom: 120px;
+	}
+
+	.MDschemeRow
+	{
+		display: none;
+	}
+
+	.SMschemeRow
+	{
+		display: block;
+	}
+
+	.formLG
+	{
+		display: none;
+	}
+
+	#formSM
+	{
+		display: block;
+	}
+
+	.practicaHeader
+	{
+		margin: 80px auto 80px auto;
+	}
+
+	.scr8imgCol
+	{
+		margin-left: 0px;
+	}
+
+	.loloPr:before, .loloPr:after
+	{
+		display: none;
+	}
+
+	.textBlok
+	{
+		top: 0px;
+		left: 0px;
+		background: unset;
+		min-width: initial;
+		min-height: initial;
+		padding: initial;
+	}
+
+	.textBlok h3, .textBlok p
+	{
+		color: #333;
+		text-align: center;
+		padding: initial;
+	}
+
+	.loloPr
+	{
+		background: initial;
+		width: initial;
+		height: initial;
+	}
+
+	.loloPr img
+	{
+		padding-top: initial;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.scr8CardCol .textBlok
+	{
+		top: initial;
+	}
+
+	.scr8CardCol3 .textBlok h3
+	{
+		padding-left: initial;
+	}
+
+	.scr8imgCol img
+	{
+		margin: 30px auto;
+		display: block;
+	}
+
+	.textBlok p
+	{
+		font-size: 19px;
+	}
+
+	.scr9VideoRow .col-md-6
+	{
+		margin-bottom: 70px;
+	}
+
+	.puzzleRow
+	{
+		display: none;
+	}
+
+	.smPuzzleRow
+	{
+		display: block;
+		margin: 50px 0 50px 0;
+	}
+
+	.smContantCol:before
+	{
+		display: none;
+	}
+
+	.footerAdrsCol2:before
+	{
+		display: none;
+	}
+
+	.bg1Main 
+	{
+	    background-attachment: initial;
+	}
+
+	.scr9
+	{
+		background-attachment: initial;	
+	}
+
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and (max-width: 767.98px) 
+{
+	.tabsRow
+	{
+		padding-left: 0px;
+	}
+
+	.tabsRow div
+	{
+		margin-bottom: 60px;
+	}
+
+	.scr1Text .txt2
+	{
+		font-size: 50px;
+	}
+
+	.photoTextRow
+	{
+		display: none;
+	}
+
+	.xsPhotoTextRow
+	{
+		display: block;
+	}
+
+	.scr4CardRow
+	{
+		padding-left: 0;
+	}
+
+	.speakerList
+	{
+		list-style-type: none;
+		padding-left: 0;
+		text-align: center;
+	}
+
+	.speakerList li:before
+	{
+		display: none;
+	}
+
+	.speakerCol
+	{
+		margin-bottom: 75px;
+	}
+
+	.scr7CardsCol
+	{
+		margin-bottom: 100px;
+	}
+
+	
+}
+
+@media screen and (max-width: 575.98px)
+{
+	.dateTop
+	{	
+		top : 25px;
+	}
+
+	.scr1Text .txt2
+	{
+		font-size: 40px;
+	}
+
+	.scr7Header
+	{
+		text-align: center;
+		border: none;
+		padding-right: 0px;
+		margin: 70px 0px 70px 0px;
+	}
+
+}
+
+@media screen and (max-width: 450px)
+{
+
+	.logo
+	{
+		float: none !important;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.telEmail
+	{
+		text-align: center;
+		float: none !important;
+		display: block;
+		max-width: 150px;
+		margin: 0 auto;
+	}
+
+	.dateTop
+	{
+		top : 0;
+		margin-top: 15px;
+	}
+
+	.scr1Text .txt1
+	{
+		font-size: 20px;
+	}
+
+	.scr1Text .txt2
+	{
+		font-size: 30px;
+	}
+
+	.xsPhotoText
+	{
+		font-size: 23px;
+	}
+
+	.respHdLectii
+	{		
+	    max-width: 300px;
+	    font-size: 28px;
+	}
+
+}
+
+
+	/*Costum*/
+
+@media screen and (max-width: 600px)
+{
+	.xsPhotoText
+	{
+		
+	}
+}
